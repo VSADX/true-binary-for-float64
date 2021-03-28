@@ -1,4 +1,14 @@
 # Converting true binary representation for float64
+  
+<br>
+  
+## Live CDN link
+```html
+<script src="https://cdn.jsdelivr.net/gh/VSADX/true-binary-for-float64@main/float-ieee.js" type="module"></script>
+```  
+  
+<br>  
+  
 ## Examples
 ### Convert a number to its binary
 ```js
