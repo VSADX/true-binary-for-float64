@@ -20,3 +20,6 @@ console.log(string_binary)
 const num = float_ieee.num(string_binary)
 console.log(num) // 42, it's a match!
 ```
+  
+References
+@\0kku
