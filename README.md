@@ -21,5 +21,5 @@ const num = float_ieee.num(string_binary)
 console.log(num) // 42, it's a match!
 ```
   
-References
+References  
 @\0kku
